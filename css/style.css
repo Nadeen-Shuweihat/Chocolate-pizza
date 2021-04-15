@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+    padding: 20px 100px;
+}
+
+header {
+    
+   
+    height: 70px;
+}
+#left{
+    float: left;
+  
+}
+#left{
+    
+    position: relative;
+    
+}
+ 
+
+#left img{
+    display: inline-block;
+    padding-right:5px ;
+    padding-top: 8px;
+}
+
+#left h3{
+    display: inline-block;
+    padding-right:5px ;
+    position: absolute;
+    top: -25px;
+    font-size: 30px;
+   }
+
+#left p{
+    display: inline-block;
+    padding-right:5px ;
+    font-size:8px;
+   
+}
+
+
+
+#right{
+    float: right;
+
+}
+#right {
+    width: 20%;
+}
+
+header nav ul li{
+    display: inline-block;
+}
+
+#rss{
+    padding-left: 8px;
+}
+
+hr{
+    height: 20px;
+}
